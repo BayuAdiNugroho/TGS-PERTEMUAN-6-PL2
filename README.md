@@ -1,9 +1,10 @@
-# MVC-Native
 
-# Tugas Bahasa Pemrograman 3
 
-NPM: 14197071
+# Tugas Bahasa Pemrograman 
+Pertemuan 6
+
+NPM: 14197046
 <br></br>
-Nama: Alwi Sahrul Ramadhan
+Nama: Bayu Adi Nugroho
 <br></br>
 Kelas: C
